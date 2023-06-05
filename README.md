@@ -1,2 +1,2 @@
 # NLP_emotion_classification
-Natural language processing (NLP) project (machine learning) for emotion classification in sentences.
+Natural language processing (NLP) project (machine learning) for emotion classification in sentences. I used PyTorch module for solving this problem and also I used transformers module to get efficient models like BERT and DistilBERT (for much faster process). Unfortunately, my local machine doesn't have any GPU, so I have to spend a lot of time to train a transformer, and I don't have so lot of time now, but I'll surely finish the job later. Now you can take a look on code, which doesn't make me doubt. I sure, it will give me great result. Follow my GitHub to don't miss when I finish the job.
